@@ -1,3 +1,4 @@
-# powerBi_SQL_portfolio
+# PowerBi_SQL_Portfolio
 Using SQL and Power BI to analyze data in LOGin 2022: STATE OF THE ART contest
-![image](https://user-images.githubusercontent.com/71718604/169483137-7b9a7403-efbc-46d7-863c-443463da17e4.png)
+<h1>Work_flow<h1>
+  ![image](https://user-images.githubusercontent.com/71718604/169486438-97b29879-1f86-447f-96db-e6bcc49fc2bc.png)
